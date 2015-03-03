@@ -4,7 +4,7 @@ Donate link: http://wpsecureops.com/
 Tags: scan protect, malware scanner, malware scan protect, scan protection, protection, login protection, hack, ban hacker, admin security, wordpress security, security plugin, hacker protection, anti scan plugin
 Requires at least: 3.4
 Tested up to: 4.1
-Stable tag: 
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

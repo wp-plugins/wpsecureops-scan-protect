@@ -4,7 +4,7 @@
 Plugin Name: WPSecureOps Scan Protect
 Plugin URI: http://wpsecureops.com/
 Description: Prevent most of the hack attempts before they even start, by detecting any malicious scan attempts.
-Version:
+Version: 1.3
 Author: WPSecureOps
 Author URI: http://wpsecureops.com/
 License: GPLv2 or later (http://www.gnu.org/licenses/gpl-2.0.html)
