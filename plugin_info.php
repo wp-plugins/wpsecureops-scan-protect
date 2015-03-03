@@ -11,7 +11,7 @@ $pluginId = "wpsecureops_scan_protect";
 $WPSecureOps[$pluginId] = array(
     "title"   => "WPSecureOps Scan Protect",
     "id"      => $pluginId,
-    "version" => "",
+    "version" => "1.3",
 );
 
 return $pluginId;
