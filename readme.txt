@@ -8,8 +8,8 @@ Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Most of hackers, before trying to attack your site will always try to scan it for vulnerabilities. By simply, detecting
-and blocking such attempts, your site will automatically be a LOT more harder to hack.
+Most of hackers, before trying to attack your site will always try to scan it for vulnerabilities. This plugin will make
+that impossible.
 
 == Description ==
 
